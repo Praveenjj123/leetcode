@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Praveenjj123/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Praveenjj123/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2427-first-letter-to-appear-twice](https://github.com/Praveenjj123/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Praveenjj123/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Praveenjj123/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2427-first-letter-to-appear-twice](https://github.com/Praveenjj123/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |
@@ -19,9 +21,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Praveenjj123/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Praveenjj123/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2427-first-letter-to-appear-twice](https://github.com/Praveenjj123/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/Praveenjj123/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Praveenjj123/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Praveenjj123/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Praveenjj123/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
