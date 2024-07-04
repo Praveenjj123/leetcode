@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Praveenjj123/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Praveenjj123/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Praveenjj123/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2427-first-letter-to-appear-twice](https://github.com/Praveenjj123/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -48,8 +49,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/Praveenjj123/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Praveenjj123/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Matrix
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/Praveenjj123/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Praveenjj123/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
