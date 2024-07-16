@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Praveenjj123/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Praveenjj123/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Praveenjj123/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Praveenjj123/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Praveenjj123/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/Praveenjj123/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Praveenjj123/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Praveenjj123/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
