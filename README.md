@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Praveenjj123/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Praveenjj123/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1127-last-stone-weight](https://github.com/Praveenjj123/leetcode/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Praveenjj123/leetcode/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Praveenjj123/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1127-last-stone-weight](https://github.com/Praveenjj123/leetcode/tree/master/1127-last-stone-weight) |
 | [1677-matrix-diagonal-sum](https://github.com/Praveenjj123/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Praveenjj123/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Praveenjj123/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
