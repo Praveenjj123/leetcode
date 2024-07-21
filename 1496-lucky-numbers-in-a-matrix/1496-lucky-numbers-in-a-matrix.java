@@ -36,14 +36,14 @@ for(i=0;i<c;i++)
     two[k++]=max;
     max=Integer.MIN_VALUE;
 } 
-for(i=0;i<c;i++)
-{
-    System.out.println(two[i]);
-}
-for(i=0;i<r;i++)
-{
-    System.out.println(one[i]);
-}
+// for(i=0;i<c;i++)
+// {
+//     System.out.println(two[i]);
+// }
+// for(i=0;i<r;i++)
+// {
+//     System.out.println(one[i]);
+// }
 for(i=0;i<r;i++)
  {
     for(j=0;j<c;j++)
