@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Praveenjj123/leetcode/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Praveenjj123/leetcode/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/Praveenjj123/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Praveenjj123/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Praveenjj123/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Praveenjj123/leetcode/tree/master/0015-3sum) |
+| [0141-linked-list-cycle](https://github.com/Praveenjj123/leetcode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Praveenjj123/leetcode/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Praveenjj123/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Praveenjj123/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
