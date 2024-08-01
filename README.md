@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Praveenjj123/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Praveenjj123/leetcode/tree/master/0455-assign-cookies) |
 | [0777-toeplitz-matrix](https://github.com/Praveenjj123/leetcode/tree/master/0777-toeplitz-matrix) |
+| [0890-lemonade-change](https://github.com/Praveenjj123/leetcode/tree/master/0890-lemonade-change) |
 | [1127-last-stone-weight](https://github.com/Praveenjj123/leetcode/tree/master/1127-last-stone-weight) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Praveenjj123/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Praveenjj123/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -116,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Praveenjj123/leetcode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Praveenjj123/leetcode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
