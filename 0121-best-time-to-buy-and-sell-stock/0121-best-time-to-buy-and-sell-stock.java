@@ -3,7 +3,7 @@ class Solution {
        int buy,profit,i,cost;
        buy=prices[0];
        profit=0;
-for(i=0;i<prices.length;i++)
+for(i=1;i<prices.length;i++)
 {
      cost=prices[i]-buy;
      profit=Math.max(profit,cost);
