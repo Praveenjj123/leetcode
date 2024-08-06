@@ -4,7 +4,7 @@ class Solution {
         char temp;
 st=0;
 end=s.length-1;
-while(st<end)
+while(st<=end)
 {
     temp=s[st];
     s[st]=s[end];
