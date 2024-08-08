@@ -1,42 +1,47 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        int br,tr,tc,bc,i,n,c=0;
-        br=0;
-        bc=0;
-         tr=matrix.length-1;
-         tc=matrix[0].length-1;
-n=matrix.length*matrix[0].length;
-         ArrayList<Integer> list=new ArrayList<>();
-     while((br<=tr&&bc<=tc)&&c!=n)
-   {
-     for(i=bc;i<=tc&&c!=n;i++)
-     {
-       list.add(matrix[br][i]);
-       c++;  
+ArrayList<Integer> al=new ArrayList<>();
+int rowl,rowup,colup,collo,i;
+rowl=0;
+rowup=matrix.length-1;
+colup=matrix[0].length-1;
+collo=0;
+int n=0;
+int s=(matrix.length)*(matrix[0].length);
+while((rowl<=rowup)&&(collo<=colup)&&s!=n)
+{
+    for(i=collo;i<=colup&&s!=n;i++)
+    {
+        al.add(matrix[rowl][i]);
+        n++;
     }
-    br++;
-    
-     for(i=br;i<=tr&&c!=n;i++)
-     {
-       list.add(matrix[i][tc]);  
-       c++;
+    rowl++;
+    for(i=rowl;i<=rowup&&s!=n;i++)
+    {
+        al.add(matrix[i][colup]);
+        n++;
     }
-       tc--;
-      
-      for(i=tc;i>=bc&&c!=n;i--)
-     {
-       list.add(matrix[tr][i]);  
-       c++;
-    } 
-   tr--;
-     for(i=tr;i>=br&&c!=n;i--)
-     {
-       list.add(matrix[i][bc]);  
-       c++;
-    } 
-    bc++;
+    colup--;
 
-   }      
-return list;
+    for(i=colup;i>=collo&&s!=n;i--)
+    {
+        al.add(matrix[rowup][i]);
+        n++;
+    }
+    rowup--;
+    for(i=rowup;i>=rowl&&s!=n;i--)
+    {
+        al.add(matrix[i][collo]);
+        n++;
+    }
+    collo++;
+    
+
+}
+return al;
+
+
+
+
     }
 }
