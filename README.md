@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Praveenjj123/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Praveenjj123/leetcode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Praveenjj123/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Praveenjj123/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Praveenjj123/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praveenjj123/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Praveenjj123/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Praveenjj123/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Praveenjj123/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Praveenjj123/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0777-toeplitz-matrix](https://github.com/Praveenjj123/leetcode/tree/master/0777-toeplitz-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Praveenjj123/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -148,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Praveenjj123/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Praveenjj123/leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
