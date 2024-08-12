@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Praveenjj123/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Praveenjj123/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Praveenjj123/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Praveenjj123/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Praveenjj123/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Praveenjj123/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Praveenjj123/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Praveenjj123/leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Praveenjj123/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Praveenjj123/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Praveenjj123/leetcode/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Praveenjj123/leetcode/tree/master/0273-integer-to-english-words) |
 ## Memoization
