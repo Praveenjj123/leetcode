@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Praveenjj123/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Praveenjj123/leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Praveenjj123/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0273-integer-to-english-words](https://github.com/Praveenjj123/leetcode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Praveenjj123/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Praveenjj123/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Praveenjj123/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Praveenjj123/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Praveenjj123/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0273-integer-to-english-words](https://github.com/Praveenjj123/leetcode/tree/master/0273-integer-to-english-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Praveenjj123/leetcode/tree/master/0070-climbing-stairs) |
+| [0273-integer-to-english-words](https://github.com/Praveenjj123/leetcode/tree/master/0273-integer-to-english-words) |
 ## Memoization
 |  |
 | ------- |
