@@ -1,23 +1,13 @@
 class Solution {
-    public List<Integer> findDuplicates(int[] nums) {
-        List<Integer> li=new ArrayList<>();
-      for(int i:nums)
-      {
-        int index=Math.abs(i)-1;
-        if(nums[index]<0)
-        {
-            li.add(Math.abs(i));
-        }
-        else
-        {
-            nums[index]=-nums[index];
-        }
-        
-      }
+  public List<Integer> findDuplicates(int[] nums) {
+    List<Integer> ans = new ArrayList<>();
 
-
-
-return li;
-        
+    for (final int num : nums) {
+      nums[Math.abs(num) - 1] *= -1;
+      if (nums[Math.abs(num) - 1] > 0)
+        ans.add(Math.abs(num));
     }
+
+    return ans;
+  }
 }
