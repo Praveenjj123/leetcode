@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Praveenjj123/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Praveenjj123/leetcode/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Praveenjj123/leetcode/tree/master/0273-integer-to-english-words) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Praveenjj123/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Praveenjj123/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Praveenjj123/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Praveenjj123/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Tree
 |  |
 | ------- |
